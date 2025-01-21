@@ -7,21 +7,21 @@
  In ‣ in
  ðat ‣ that
  have ‣ have
- ai ‣ I
+ aï ‣ I
  It ‣ it
  for ‣ for
  nät ‣ not
  än ‣ on
- wið ‣ with
+ wIð ‣ with
  hï ‣ he
  as ‣ as
  yu ‣ you
  du ‣ do
  at ‣ at
- ðis ‣ this
+ ðIs ‣ this
  bət ‣ but
  hIs ‣ his
- bai ‣ by
+ baï ‣ by
  frəm ‣ from
  ðe ‣ they
  wï ‣ we
@@ -30,8 +30,8 @@
  shï ‣ she
  r ‣ or
  an ‣ an
- wil ‣ will
- mai ‣ my
+ wIl ‣ will
+ maï ‣ my
  wän ‣ one
  äl ‣ all
  wud ‣ would
@@ -45,14 +45,14 @@
  abaut ‣ about
  hu ‣ who
  get ‣ get
- wikh ‣ which
+ wItsh ‣ which
  go ‣ go
  mï ‣ me
  wen ‣ when
  mek ‣ make
  kan ‣ can
- laik ‣ like
- taim ‣ time
+ laïk ‣ like
+ taïm ‣ time
  no ‣ no
  jəst ‣ just
  hIm ‣ him
@@ -76,7 +76,7 @@
  kəm ‣ come
  Its ‣ its
  ovr ‣ over
- ðink ‣ think
+ ðInk ‣ think
  also ‣ also
  bakk ‣ back
  aftr ‣ after
