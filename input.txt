@@ -6,7 +6,7 @@
  ə ‣ a
  In ‣ in
  ðat ‣ that
- have ‣ have
+ hav ‣ have
  aï ‣ I
  It ‣ it
  for ‣ for
@@ -44,11 +44,11 @@
  If ‣ if
  abaut ‣ about
  hu ‣ who
- get ‣ get
+ gɛt ‣ get
  wItsh ‣ which
  go ‣ go
  mï ‣ me
- wen ‣ when
+ wɛn ‣ when
  mek ‣ make
  kan ‣ can
  laïk ‣ like
@@ -69,7 +69,7 @@
  sï ‣ see
  əðr ‣ other
  ðan ‣ than
- ðen ‣ then
+ ðɛn ‣ then
  näu ‣ now
  lək ‣ look
  onlï ‣ only
@@ -86,12 +86,12 @@
  är ‣ our
  work ‣ work
  frst ‣ first
- wel ‣ well
- wae ‣ way
- ïven ‣ even
+ wɛl ‣ well
+ we ‣ way
+ ïvɛn ‣ even
  nu ‣ new
  want ‣ want
- bekäz ‣ because
+ bIkäz ‣ because
  anï ‣ any
  ðïz ‣ these
  gIv ‣ give
